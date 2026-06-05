@@ -1,4 +1,4 @@
-# AWS 3-Tier Architecture using Terraform
+# Terraform Script for AWS 3-Tier Architecture
 
 ## Project Overview
 
