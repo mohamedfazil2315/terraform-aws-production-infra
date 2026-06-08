@@ -23,7 +23,7 @@ The main goal of this project is to automate AWS infrastructure provisioning usi
 ---
 
 ## Architecture Design
-
+![AWS 3-Tier Architecture](./assets/aws-3tier-architecture.svg)
 The infrastructure consists of:
 
 * A custom VPC
